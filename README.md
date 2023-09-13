@@ -18,7 +18,7 @@ This is a small project which shows how to jam a wifi network or performing a be
 1. Download esp8266 deauther 2.6.1 DSTIKE USB DEAUTHER bin file from the github or go to this link http://deauther.com/docs/download binaries->dstike->Usb deauther
 2. Connect the NodeMcu with your pc for the driver Installation Process after then once restart your PC.
 3. Open this website https://esp.huhn.me/ on Chrome or Edge and then reconnect your NodeMcu and select on Connect.
-![alt text](https://github.com/WhyRed-V/NodeMcu-Projects/blob/main/Screenshots/ESP8266%20Deauther%20%E2%80%94%20Mozilla%20Firefox%209_14_2023%201_00_09%20AM.png)
+![alt text](https://github.com/WhyRed-V/NodeMcu-Projects/blob/main/Screenshots/Web%20capture_14-9-2023_0344_esp.huhn.me.jpeg)
 4. Select your port which and click on program and then browse that perticular file and then select it 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 5. Flashing will automatically started and when Flashing is done you need to reconnect that NodeMcu
