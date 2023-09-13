@@ -39,5 +39,5 @@ This is a small project which shows how to jam a wifi network or performing a be
 ## IMPORTANT NOTICE
 
 THIS PROJECT IS JUST FOR FUN OR EDUCATIONAL PURPOSE KINDLY DO NOT USE THIS AS A WRONG WAY
-                                        ENJOY
+----------------------------------------ENJOY--------------------------------------------
 
